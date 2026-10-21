@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+suit1,Edge Chromium 155,,,21-10-2026 20:25:21,21-10-2026 20:25:51,30.876s,PASSED
+,,,,,,,
+Test Cases/test1,Edge Chromium 155,,,21-10-2026 20:25:21,21-10-2026 20:25:37,16.432s,PASSED
+"openBrowser("""")",Edge Chromium 155,,,21-10-2026 20:25:22,21-10-2026 20:25:25,3.744s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Edge Chromium 155,,,21-10-2026 20:25:25,21-10-2026 20:25:29,3.783s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Edge Chromium 155,,,21-10-2026 20:25:29,21-10-2026 20:25:31,1.453s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Edge Chromium 155,,,21-10-2026 20:25:31,21-10-2026 20:25:31,0.801s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Edge Chromium 155,,,21-10-2026 20:25:31,21-10-2026 20:25:32,0.591s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 155,,,21-10-2026 20:25:32,21-10-2026 20:25:33,1.197s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Edge Chromium 155,,,21-10-2026 20:25:33,21-10-2026 20:25:34,0.438s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_14""))",Edge Chromium 155,,,21-10-2026 20:25:34,21-10-2026 20:25:34,0.620s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment""), ""dfg"")",Edge Chromium 155,,,21-10-2026 20:25:34,21-10-2026 20:25:35,0.969s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Book Appointment""))",Edge Chromium 155,,,21-10-2026 20:25:35,21-10-2026 20:25:36,1.036s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Go to Homepage""))",Edge Chromium 155,,,21-10-2026 20:25:36,21-10-2026 20:25:37,0.799s,PASSED
+closeBrowser(),Edge Chromium 155,,,21-10-2026 20:25:37,21-10-2026 20:25:37,0.358s,PASSED
+,,,,,,,
+Test Cases/test2,Edge Chromium 155,,,21-10-2026 20:25:37,21-10-2026 20:25:51,14.110s,PASSED
+"openBrowser("""")",Edge Chromium 155,,,21-10-2026 20:25:38,21-10-2026 20:25:39,1.371s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Edge Chromium 155,,,21-10-2026 20:25:39,21-10-2026 20:25:44,4.823s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Edge Chromium 155,,,21-10-2026 20:25:44,21-10-2026 20:25:45,1.072s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Edge Chromium 155,,,21-10-2026 20:25:45,21-10-2026 20:25:46,0.758s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Edge Chromium 155,,,21-10-2026 20:25:46,21-10-2026 20:25:46,0.483s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 155,,,21-10-2026 20:25:46,21-10-2026 20:25:48,1.306s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Edge Chromium 155,,,21-10-2026 20:25:48,21-10-2026 20:25:48,0.398s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_13""))",Edge Chromium 155,,,21-10-2026 20:25:48,21-10-2026 20:25:48,0.523s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment""), ""dfgh"")",Edge Chromium 155,,,21-10-2026 20:25:48,21-10-2026 20:25:49,0.901s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Book Appointment""))",Edge Chromium 155,,,21-10-2026 20:25:49,21-10-2026 20:25:50,0.909s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Go to Homepage""))",Edge Chromium 155,,,21-10-2026 20:25:50,21-10-2026 20:25:51,0.911s,PASSED
+closeBrowser(),Edge Chromium 155,,,21-10-2026 20:25:51,21-10-2026 20:25:51,0.341s,PASSED
